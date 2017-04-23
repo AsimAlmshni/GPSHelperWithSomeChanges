@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المرشد</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="action_shareEn">الانجليزيه</string>
+    <string name="action_shareAr">العربيه</string>
+    <string name="city_slct">اختار المدينه</string>
+    <string name="firstName">"الاسم الاول  "</string>
+    <string name="lastName">"الاسم الاخير "</string>
+    <string name="navigation_drawer_close">اغلق اعدادات</string>
+    <string name="navigation_drawer_open">افتح الاعدادات</string>
+    <string name="str_confirm_password">تاكيد كلمه السر</string>
+    <string name="str_email">البريد الالكتروني</string>
+    <string name="str_enter_password">كلمه السر غير  صحيحه</string>
+    <string name="str_enter_valid_email">البريد الالكتروني غير صحيح</string>
+    <string name="str_i_accept">اوافق على الشروط الاستخدام</string>
+    <string name="str_invalid_phone_number">رقم الهاتف غير صحيح</string>
+    <string name="str_login">دخول</string>
+    <string name="str_login_error">البريد الالكتروني او كلمه السر غير صحيحه</string>
+    <string name="str_password">كلمه السر</string>
+    <string name="str_password_must_be_same">كلمه لا تتوافق</string>
+    <string name="str_phone">الهاتف</string>
+    <string name="str_please_accept">رجاء وافق على الشروط</string>
+    <string name="str_share">مشاركه</string>
+    <string name="str_signup">انشاء حساب</string>
+    <string name="str_signup_notsuccess">البريد الالكتروني غير موجود</string>
+    <string name="str_signup_success">تم انشاء الحساب</string>
+    <string name="str_sure_update">تم التحديث</string>
+    <string name="str_update_notsuccess">لم يتم التحديث</string>
+    <string name="str_update_success">انتهي التحديث</string>
+    <string name="title_activity_home_page">الصفحه الئيسيه</string>
+    <string name="update_info_user">تديث</string>
+</resources>
